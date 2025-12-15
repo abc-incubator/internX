@@ -20,21 +20,21 @@ Internships at ABC are designed to immerse trainees in critical functional areas
 
 | Track | Key Objectives |
 | :--- | :--- |
-| **Platform Engineering Trainee** | Develop skills in DevOps and Platform Engineering, especially **Linux, Kubernetes, and Grafana Stack**]. Provide hands-on experience in leveraging **Cloud-Native Platform Engineering** associates workforce]. |
-| **Researcher Assistant** | Provide hands-on experience leveraging **blockchain and Web 3.0 technologies for marketing applications**]. Develop skills in creating digital rewards/loyalty programs and gaining knowledge in innovative marketing strategies for 2024 and beyond]. |
+| **Platform Engineering Trainee** | Develop skills in DevOps and Platform Engineering, especially **Linux, Kubernetes, and Grafana Stack**. Provide hands-on experience in leveraging **Cloud-Native Platform Engineering** associates workforce. |
+| **Researcher Assistant** | Provide hands-on experience leveraging **blockchain and Web 3.0 technologies for marketing applications**. Develop skills in creating digital rewards/loyalty programs and gaining knowledge in innovative marketing strategies for 2024 and beyond. |
 
 ### Key Projects and Assignments
 
 Interns contribute directly to strategic company initiatives through challenging R&D and implementation projects.
 
 #### Platform Engineering Trainee Key Projects
-* Platform reliability and automation engineering].
+* Platform reliability and automation engineering.
 * **R&D Projects:** Adaptive Resource Management with KEDA, Real-time Threat Detection with Falco, Proactive Governance and Security Enforcement with OPA.
-* Observability Stack Implementation and Infrastructure-as-Code (IaC) Enhancements].
+* Observability Stack Implementation and Infrastructure-as-Code (IaC) Enhancements.
 
 #### Researcher Assistant Key Project
-* Research and write a comprehensive guide titled **"Leveraging Blockchain and Web 3.0 for Loyalty 3.0: A Marketing Tech Guide for [2024]"**].
-* Research topics included: Blockchain technology in marketing, Web 3.0 impact on customer engagement, and the evolution of loyalty programs].
+* Research and write a comprehensive guide titled **"Leveraging Blockchain and Web 3.0 for Loyalty 3.0: A Marketing Tech Guide for 2024"**.
+* Research topics included: Blockchain technology in marketing, Web 3.0 impact on customer engagement, and the evolution of loyalty programs.
 
 ---
 
