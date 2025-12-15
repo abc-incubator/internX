@@ -1,4 +1,4 @@
-# Ascend Bit Company (ABC) Internship Program Repository
+# InternX - Ascend Bit Company (ABC) Internship Program
 
 This repository serves as a centralized hub for information, projects, and artifacts created by interns participating in the Ascend Bit Company (ABC) Internship Program.
 
