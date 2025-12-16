@@ -48,7 +48,7 @@ A detailed breakdown of education, internship responsibilities, and certificatio
 
 🔗 Article: [Read on Medium](https://medium.com/p/ffa4eee256f5)
 
-> Sharing lessons learned from real-world systems, teamwork, and production environments.
+> Sharing lessons learned and life at Ascend Bit.
 ---
 
 ## 🎤 Presentations & Talks
@@ -58,7 +58,8 @@ A detailed breakdown of education, internship responsibilities, and certificatio
 🔗 Slides: [View Slides](https://www.canva.com/design/DAGt_BqE4Ek/_utSMKaO2ve74whiqc1iVg/edit?utm_content=DAGt_BqE4Ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Linux" width="800" />
+  <a href="https://www.canva.com/design/DAGt_BqE4Ek/_utSMKaO2ve74whiqc1iVg/edit?utm_content=DAGt_BqE4Ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/01468a19-97b9-4417-8167-c7f6f3930952" />
 </div>
 
 ### 🛡️ Kubernetes security
@@ -66,7 +67,8 @@ A detailed breakdown of education, internship responsibilities, and certificatio
 🔗 Slides: [View Slides](https://www.canva.com/design/DAGvT35uMnY/AtNqQRePaK6HWKcX1SrcGQ/edit?utm_content=DAGvT35uMnY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Kube+security" width="800" />
+  <a href="https://www.canva.com/design/DAGvT35uMnY/AtNqQRePaK6HWKcX1SrcGQ/edit?utm_content=DAGvT35uMnY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/f195b5b1-bb6c-457a-858d-551c2574441f" />
 </div>
 
 ### ☁️ Kubernetes probe & more
@@ -74,7 +76,8 @@ A detailed breakdown of education, internship responsibilities, and certificatio
 🔗 Slides: [View Slides](https://www.canva.com/design/DAGv-HbXhNk/uKRbL1J7tHuGbIHuPIZ7qA/edit?utm_content=DAGv-HbXhNk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=kube+%26+probe" width="800" />
+  <a href="https://www.canva.com/design/DAGv-HbXhNk/uKRbL1J7tHuGbIHuPIZ7qA/edit?utm_content=DAGv-HbXhNk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+  <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/01468a19-97b9-4417-8167-c7f6f3930952" />
 </div>
 
 ### ☁️ Gatekeeper
@@ -82,7 +85,8 @@ A detailed breakdown of education, internship responsibilities, and certificatio
 🔗 Slides: [View Slides](https://www.canva.com/design/DAGxQrMMEdw/CLu2mqwxJxc_PsoZxNci1A/edit?utm_content=DAGxQrMMEdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=kube+%26+gate" width="800" />
+  <a href="https://www.canva.com/design/DAGxQrMMEdw/CLu2mqwxJxc_PsoZxNci1A/edit?utm_content=DAGxQrMMEdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/b35c58b9-2795-4318-afa4-4e8b7bff0ea9" />
 </div>
 
 ### ☁️ Bytebase
@@ -90,7 +94,8 @@ A detailed breakdown of education, internship responsibilities, and certificatio
 🔗 Slides: [View Slides](https://www.canva.com/design/DAG3Fq6dqro/r-5bQquYJwCR7mTi07Ja2A/edit?utm_content=DAG3Fq6dqro&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=kube+%26+gate" width="800" />
+  <a href="https://www.canva.com/design/DAG3Fq6dqro/r-5bQquYJwCR7mTi07Ja2A/edit?utm_content=DAG3Fq6dqro&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/879a73f7-50c1-4b06-ac31-c72fd122a22e" />
 </div>
 
 ---
