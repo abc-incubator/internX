@@ -183,9 +183,3 @@ A hands-on demonstration of KEDA implementation, showing how to achieve efficien
 ---
 
 <div align="center">
-
-**⭐ If you find my work interesting, consider giving it a star!**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mongzierr.Mongzierr)
-
-</div>
