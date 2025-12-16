@@ -47,7 +47,7 @@ This section lists the profiles of our interns and links to their final projects
 | Intern Name | Role/Cohort | Key Project/Focus | Artifact Link (e.g., Final Report, Code Repo) |
 | :--- | :--- | :--- | :--- |
 | [**Wiwat Liangkobkit**](https://github.com/xviiivin) | [Full Stack Engineer / MAR-SEP 2024] , [Platform Engineering / SEP-DEC 2025] | Kubernetes Security, Latitude Store Categories | [Artifacts](https://github.com/abc-incubator/internX/blob/main/Win.Wiwat.md) |
-| **Traitam Sangduen** | [Full Stack Engineer / MAR-SEP 2024] , [Platform Engineering / SEP-DEC 2025] | [Description of Projects] | [Artifacts](https://github.com/abc-incubator/internX/blob/main/PHURI.KIW.md) |
+| [**Traitam Sangduen**](https://github.com/Mongzierr) | [Full Stack Engineer / MAR-SEP 2024] , [Platform Engineering / SEP-DEC 2025] | [Description of Projects] | [Artifacts](https://github.com/abc-incubator/internX/blob/main/Trai.Traitam.md) |
 | [**Phuri Siripol**](https://github.com/Phuriq) | [Platform Engineering / SEP-DEC 2025] | Cloud-Native Security & Observability | [Artifacts](https://github.com/abc-incubator/internX/blob/main/PHURI.KIW.md) |
 
 ### Example Artifacts
