@@ -93,12 +93,6 @@ Best if you’d like to dive deeper into my background.
 <hr/>
 
 
-#  About Me. tri:
-
-
-
-#  About Me. q:
-
 
 
 
