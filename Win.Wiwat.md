@@ -1,7 +1,8 @@
-# internX
+# internX - Wiwat liangkobkit
 Artifacts from internship experiments, exploration, and execution.
 
-# 💫 About me. Wiwat liangkobkit:
+
+## 💫 About Me
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=217918&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Wiwat+Liangkokbkit;+👻+XVIIIVIN+👻"; />
@@ -42,14 +43,43 @@ Best if you’d like to dive deeper into my background.
 [Click here!](https://www.canva.com/design/DAG7kQJr2sk/7NY5Jr44uHlFExZXSUshmg/edit?utm_content=DAG7kQJr2sk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 )
 
-<br/>
 
-📌 Last updated: December 2025
+## 💼 Internship Experience
 
-<br/>
+### Platform Engineer Trainee — TrueMoney (TMN | Ascend Bit)
+
+#### ☁️ Kubernetes & Cloud Infrastructure
+
+* Built and managed a **Kubernetes cluster on Alibaba Cloud**
+* Worked with core Kubernetes resources:
+
+  * Deployment, StatefulSet
+  * Service, Ingress
+* Configured storage components:
+
+  * PersistentVolume (PV)
+  * PersistentVolumeClaim (PVC)
+  * StorageClass (dynamic & static provisioning)
+* Hands-on experience with **Docker** and containerized workloads
+
+#### 🛡️ Runtime Security with Falco
+
+* Explored **Falco** for container runtime security and anomaly detection
+* Customized Falco rules to detect specific security events
+* Integrated **Falcosidekick** with **Discord Webhook** for real-time alerts
+
+#### 🗄️ Bytebase – Database Schema Change Management
+
+* Implemented **Bytebase** as a centralized database schema governance platform
+* Managed schema changes across:
+  `dev`, `qa`, `staging`, `nonprod`, `production`
+* Designed workflows for approval, rollout, and rollback strategies
+* Collaborated with developers and platform teams to standardize safe migrations
+
+---
 
 
-## 📚 Medium Blog
+##  ✍️ Writing & Sharing
 ### 🌊 From Code to Cloud: My Internship Journey
 🔗 Blogs: [Click here!](https://medium.com/@xviiivin/from-code-to-cloud-my-internship-journey-9dfb8861206d)
 
@@ -60,6 +90,43 @@ Best if you’d like to dive deeper into my background.
 
 > How I transitioned from zero experience to managing database security, CI/CD workflows, and DevSecOps best practices.
 <hr/>
+
+
+## 🧪 Featured Project
+
+### 🏷️ Category Management Platform (TrueMoney Project)
+
+* **Frontend:** Next.js
+* **Backend:** Golang (REST API)
+* Developed UI with Next.js
+* Implemented backend services using Golang
+* Integrated frontend & backend with RESTful APIs
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge\&logo=alibabacloud\&logoColor=white)
+
+### 🔐 Security & Platform Tools
+
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge\&logo=falco\&logoColor=white)
+![Bytebase](https://img.shields.io/badge/Bytebase-4F46E5?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-2E7D32?style=for-the-badge)
+
+---
+
 
 
 ## 🏷️ Presentation
@@ -91,12 +158,5 @@ Best if you’d like to dive deeper into my background.
 </div>
 
 <hr/>
-
-
-
-
-
-
-
 
 
