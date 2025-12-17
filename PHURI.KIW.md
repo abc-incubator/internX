@@ -53,7 +53,12 @@ A detailed breakdown of education, internship responsibilities, and certificatio
 
 ## 🎤 Presentations & Talks
 
-### 🐧 Linux
+### 🐧 Linux Fundamentals 
+  This section covers the foundations of Linux, including:
+
+- What Linux is and how it works at a high level
+- Essential Linux commands for daily operations
+- An introduction to cgroups and namespaces, and how they enable process isolation and resource control
 
 🔗 Slides: [View Slides](https://www.canva.com/design/DAGt_BqE4Ek/_utSMKaO2ve74whiqc1iVg/edit?utm_content=DAGt_BqE4Ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -62,7 +67,12 @@ A detailed breakdown of education, internship responsibilities, and certificatio
   <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/422c5db7-7889-4744-91a7-1a655ba0e98d" />
 </div>
 
-### 🛡️ Kubernetes security
+### 🛡️ Kubernetes Security
+  This section focuses on core Kubernetes security concepts, including:
+
+- Security Contexts and how they control container privileges
+- Network Policies for managing pod-to-pod and pod-to-service communication
+- Best practices for securing workloads in a Kubernetes cluster
 
 🔗 Slides: [View Slides](https://www.canva.com/design/DAGvT35uMnY/AtNqQRePaK6HWKcX1SrcGQ/edit?utm_content=DAGvT35uMnY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -71,7 +81,13 @@ A detailed breakdown of education, internship responsibilities, and certificatio
   <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/f195b5b1-bb6c-457a-858d-551c2574441f" />
 </div>
 
-### ☁️ Kubernetes probe & more
+### ☁️ Kubernetes Probes & Workload Configuration
+  This section explains how Kubernetes manages application health and configuration:
+
+- Liveness and Readiness Probes and their impact on application availability
+- Pod affinity and anti-affinity for workload placement
+- Labels and annotations for organizing and managing Kubernetes resources
+- Secrets and ConfigMaps for handling sensitive data and application configuration
 
 🔗 Slides: [View Slides](https://www.canva.com/design/DAGv-HbXhNk/uKRbL1J7tHuGbIHuPIZ7qA/edit?utm_content=DAGv-HbXhNk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -80,7 +96,12 @@ A detailed breakdown of education, internship responsibilities, and certificatio
   <img width="795" height="443" alt="image" src="https://github.com/user-attachments/assets/105b0818-7756-4c3b-9865-55aedc4d39ce" />
 </div>
 
-### ☁️ Gatekeeper
+### ☁️ PSA & Gatekeeper
+  This section introduces policy-as-code in Kubernetes:
+
+- What OPA (Open Policy Agent) is and how it works
+- Pod Security Admission (PSA) and its role in Kubernetes security
+- How Gatekeeper enforces policies to ensure compliance and prevent misconfigurations
 
 🔗 Slides: [View Slides](https://www.canva.com/design/DAGxQrMMEdw/CLu2mqwxJxc_PsoZxNci1A/edit?utm_content=DAGxQrMMEdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -90,6 +111,11 @@ A detailed breakdown of education, internship responsibilities, and certificatio
 </div>
 
 ### ☁️ Bytebase
+  This section introduces database change management and governance:
+
+- What Bytebase is and why it is used
+- How Bytebase helps manage database schema changes safely
+- Benefits of using Bytebase for database version control, auditing, and collaboration
 
 🔗 Slides: [View Slides](https://www.canva.com/design/DAG3Fq6dqro/r-5bQquYJwCR7mTi07Ja2A/edit?utm_content=DAG3Fq6dqro&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
